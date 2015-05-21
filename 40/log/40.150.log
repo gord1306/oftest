@@ -1,0 +1,7 @@
+INFO:40.150:dpctl tcp:192.168.1.2 set-config flags=0x2
+INFO:40.150:{"SENDING":"", "RECEIVED":{"conf":{"flags":"0x2", "mlen":"128"}}}
+INFO:40.150:dpctl tcp:192.168.1.2 get-config
+INFO:40.150:{"SENDING":"", "RECEIVED":{"conf":{"flags":"0x2", "mlen":"128"}}}
+INFO:40.150:dpctl tcp:192.168.1.2 features
+INFO:40.150:{"SENDING":"", "RECEIVED":{"dpid":"0x00007072cf94ebcc", "buffs":"0", "tabs":"7", "aux_id":"0", "caps":"0x47"}}
+INFO:40.150:Fail
